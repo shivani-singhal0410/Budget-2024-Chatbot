@@ -6,7 +6,7 @@
 - The Gemini-Pro model is used to answer the questions based on pdf file.
 - The frontend has been designed using Streamlit.
 
-##Screenshots for the app:
+## Screenshots for the app:
 
 1. Initial Screen:
    ![image](https://github.com/user-attachments/assets/fffb6e99-452a-4489-8dd4-9e1cca526796)
